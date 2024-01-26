@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+       android:id="@+id/general_bottom_navigation"
+       android:icon="@drawable/general_icon"
+       android:title="General Stuff"/>
+   <item
+       android:id="@+id/reminder_bottom_navigation"
+       android:icon="@drawable/reminder_bulb"
+       android:title="Reminders"/>
+</menu>
